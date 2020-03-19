@@ -24,5 +24,6 @@ Index.html - Description Api!
 ![Mysql](https://user-images.githubusercontent.com/57706581/77076262-dc2b0e00-69f3-11ea-9572-91ccf5768c5f.PNG)
 Extra Step
 In this screenshot it shows how to use the cascade function. You can also look at the settings Eager and Lazy.
-lazy_eager
-Thanks for reading !
+![lazy_eager](https://user-images.githubusercontent.com/57706581/77077023-f44f5d00-69f4-11ea-876a-6883d9f7c13e.PNG)
+
+#Thanks for reading !
