@@ -3,7 +3,7 @@ Furniture Warehouse Api.  Application shows how i use Hibernate, Jpa, CRUD Repos
 
 Index.html - Description Api!
 ![tytulowa](https://user-images.githubusercontent.com/57706581/77075839-3aa3bc80-69f3-11ea-87c3-274c0ab39de6.PNG)
-1 Step - ERD
+1 Step - ERD - Start app ! 
 ![ERD](https://user-images.githubusercontent.com/57706581/77075854-42636100-69f3-11ea-97b9-000bc281618b.PNG)
 
 2 Step - Loggin to H2 DB
